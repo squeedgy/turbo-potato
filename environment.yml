@@ -1,0 +1,9 @@
+name: mysql-to-mongo
+channels:
+  - defaults
+dependencies:
+  - python
+  - pip
+  - pymongo
+  - mysql-connector-python
+  - pyyaml
